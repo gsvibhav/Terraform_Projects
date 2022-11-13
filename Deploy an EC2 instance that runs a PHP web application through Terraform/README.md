@@ -1,4 +1,4 @@
-#*Deploy an EC2 instance that runs a PHP web application through Terraform*
+*Deploy an EC2 instance that runs a PHP web application through Terraform*
 
 
 
